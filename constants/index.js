@@ -24,6 +24,11 @@ export const exploreWorlds = [
     imgUrl: '/planet-05.png',
     title: 'Hawkins Labs',
   },
+  {
+    id: 'world-5',
+    imgUrl: '/maskgroup2.png',
+    title: 'Hawkins Labsys',
+  },
 ];
 
 export const startingFeatures = [
