@@ -55,21 +55,21 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of the Metaverse makes Elon Musk nervous',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Exploring Why the Rise of the Metaverse Poses a New Challenge to the Elon Musk Vision of Technological Leadership',
   },
   {
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Your Ultimate Guide to Simplifying the Chaos: 7 Proven Tips for Navigating and Thriving in the Complex and Exciting World of the Metaverse',
   },
   {
     imgUrl: '/planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Discover How One Powerful Platform Can Take You on a Virtual Journey Around the Entire Globe, Allowing You to Explore Diverse Cultures, Landmarks, and Adventures Without Ever Leaving Your Home',
   },
 ];
 
